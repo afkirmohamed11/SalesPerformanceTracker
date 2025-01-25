@@ -53,7 +53,6 @@ DAX (Data Analysis Expressions) is used to calculate key metrics such as:
 
 ![Sales Dashboard](images/image.png)
 
-> *Replace `path_to_image.png` with the actual path to your image file.*
 
 ## License
 
